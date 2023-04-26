@@ -1,0 +1,42 @@
+.outerBox {
+  font-size: 32px;
+  padding: 46px 27px;
+  position: absolute;
+  top: 527px;
+  left: 194px;
+  width: 979px;
+  height: 600px;
+  background: #e9e9e9;
+}
+
+.outerBox .innerBox {
+  justify-content: center;
+  width: 926px;
+  height: 505px;
+  background-color: #232d3e;
+}
+
+.outerBox .innerBox .yellow {
+  color: #ffea2f;
+}
+
+.outerBox .innerBox .jsonContainer {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  top: 32px;
+  left: 28px;
+}
+
+.outerBox .innerBox .jsonContainer .jsonResult {
+  display: flex;
+}
+
+.outerBox .innerBox .jsonResult .rdRose {
+  color: #2ff3ff;
+  padding-left: 15px;
+}
+
+.outerBox .innerBox .jsonResult .orange {
+  color: #ffa654;
+}

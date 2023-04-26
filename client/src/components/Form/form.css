@@ -1,0 +1,64 @@
+.formContainer {
+  position: absolute;
+  width: 1366px;
+  height: 1179px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 39px;
+  color: #000;
+}
+
+.formContainer .inputField {
+  position: absolute;
+  top: 203px;
+  left: 196px;
+  display: flex;
+  gap: 27px;
+}
+
+.formContainer .inputField .inputText {
+  padding: 15px 0;
+  display: flex;
+  flex-direction: column;
+  gap: 47px;
+}
+
+.formContainer .inputField .inputValue {
+  display: flex;
+  flex-direction: column;
+  gap: 42px;
+}
+
+.formContainer .inputField .inputValue input {
+  border: none;
+  width: 697px;
+  height: 54px;
+  font-size: 32px;
+  background: #e9e9e9;
+  padding-right: 26px;
+}
+
+.formContainer button {
+  position: absolute;
+  top: 401px;
+  right: 193px;
+
+  box-sizing: border-box;
+  width: 328px;
+  height: 76px;
+
+  font-size: 32px;
+  cursor: pointer;
+  background: #ffffff;
+  border: 4px solid #a8a8a8;
+  border-radius: 10px;
+}
+
+.formContainer button:hover {
+  color: #1b1a1a;
+  background-color: #f0f0f0;
+  border: 3px slid #bababa;
+}

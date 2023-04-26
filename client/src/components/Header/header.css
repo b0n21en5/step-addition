@@ -1,0 +1,19 @@
+.container {
+  position: absolute;
+  width: 1366px;
+  height: 143px;
+  background: #e9e9e9;
+}
+
+.heading {
+  position: absolute;
+  top: 42px;
+  left: 91px;
+  width: 324px;
+  height: 58px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 48px;
+  line-height: 58px;
+}
