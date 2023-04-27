@@ -1,4 +1,6 @@
-# step-addition
+# <a href="https://step-addition.onrender.com/">step-addition</a>
+
+![](https://github.com/b0n21en5/step-addition/blob/main/intro.gif)
 
 ## Guide to run this app locally:
 
