@@ -1,4 +1,4 @@
-# <a href="https://step-addition.onrender.com/"></a>step-addition
+# step-addition
 
 ## Guide to run this app locally:
 
