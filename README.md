@@ -1,18 +1,17 @@
-# step-addition
+# <a href="https://step-addition.onrender.com/"></a>step-addition
 
-step by step guide to run this app locally:
+## Guide to run this app locally:
 
-step-1: git clone this repo in your local environment
+### Step-1: git clone this repo in your local environment
 
-step-2: open terminal & change directory to client by entering 'cd client' 
+### Step-2: open terminal & change directory to client by entering "cd client"
 
-step-3: enter 'npm i' to install client side dependencies
+### Step-3: enter "npm i" to install client side dependencies
 
-step-4: open new terminal & enter 'cd server' from root directory of the terminal
+### Step-4: open new terminal & enter "cd server" from root directory of the terminal
 
-step-5: enter 'npm i' to install server side dependencies
+### Step-5: enter "npm i" to install server side dependencies
 
-step-6: enter 'npm run dev' only from server directory terminal
+### step-6: create new file '.env' and add "MONGO_URL = your_mongo_url" in it
 
-
-Note: database is not included
+### Step-7: enter "npm run dev" only from server directory terminal
